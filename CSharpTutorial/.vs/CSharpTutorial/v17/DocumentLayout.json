@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E4FA893F-4BC1-40EC-90A2-997179F12779}|SartBloklari\\SartBloklari.csproj|c:\\users\\baran_akdeniz\\documents\\github\\csharptutorial\\csharptutorial\\sartbloklari\\sartbloklari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E4FA893F-4BC1-40EC-90A2-997179F12779}|SartBloklari\\SartBloklari.csproj|solutionrelative:sartbloklari\\sartbloklari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{88CFF805-2617-4497-89B0-AD328F8F7164}|Metotlar\\Metotlar.csproj|c:\\users\\baran_akdeniz\\documents\\github\\csharptutorial\\csharptutorial\\metotlar\\metotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88CFF805-2617-4497-89B0-AD328F8F7164}|Metotlar\\Metotlar.csproj|solutionrelative:metotlar\\metotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "SartBloklari.cs",
-              "DocumentMoniker": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\SartBloklari\\SartBloklari.cs",
-              "RelativeDocumentMoniker": "SartBloklari\\SartBloklari.cs",
-              "ToolTip": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\SartBloklari\\SartBloklari.cs",
-              "RelativeToolTip": "SartBloklari\\SartBloklari.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAArwDIAAAABAAAAAAAAAA==",
+              "Title": "Metotlar.cs",
+              "DocumentMoniker": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Metotlar\\Metotlar.cs",
+              "RelativeDocumentMoniker": "Metotlar\\Metotlar.cs",
+              "ToolTip": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Metotlar\\Metotlar.cs",
+              "RelativeToolTip": "Metotlar\\Metotlar.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxwAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-13T10:04:35.941Z",
+              "WhenOpened": "2025-11-13T10:18:48.842Z",
               "EditorCaption": ""
             }
           ]
