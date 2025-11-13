@@ -1,0 +1,7 @@
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\SartBloklari\bin\Debug\SartBloklari.exe.config
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\SartBloklari\bin\Debug\SartBloklari.exe
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\SartBloklari\bin\Debug\SartBloklari.pdb
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\SartBloklari\obj\Debug\SartBloklari.csproj.AssemblyReference.cache
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\SartBloklari\obj\Debug\SartBloklari.csproj.CoreCompileInputs.cache
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\SartBloklari\obj\Debug\SartBloklari.exe
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\SartBloklari\obj\Debug\SartBloklari.pdb

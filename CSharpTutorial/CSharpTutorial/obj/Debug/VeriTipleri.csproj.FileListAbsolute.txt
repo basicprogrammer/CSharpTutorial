@@ -1,0 +1,7 @@
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\CSharpTutorial\bin\Debug\CSharpTutorial.exe.config
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\CSharpTutorial\bin\Debug\CSharpTutorial.exe
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\CSharpTutorial\bin\Debug\CSharpTutorial.pdb
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\CSharpTutorial\obj\Debug\VeriTipleri.csproj.AssemblyReference.cache
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\CSharpTutorial\obj\Debug\VeriTipleri.csproj.CoreCompileInputs.cache
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\CSharpTutorial\obj\Debug\CSharpTutorial.exe
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\CSharpTutorial\obj\Debug\CSharpTutorial.pdb
