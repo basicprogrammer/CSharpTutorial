@@ -35,6 +35,10 @@ namespace CSharpTutorial
                                                         // Yaklaşık olarak ±5.0 × 10−324 ile ±1.7 × 10308 (1.79769313486232e308 ile 1.79769313486232e308 arasında)
                                                         // Virgülden sonra 15-16 basamağa kadar hassasiyet  
 
+            decimal paraMiktari = 1000.50m;              // 128 bit ondalıklı sayı.
+                                                         // Yaklaşık olarak ±1.0 x 10−28 ile ±7.9 x 1028 (7.9228162514264337593543950335e28 ile 7.9228162514264337593543950335e28 arasında)
+                                                         // Virgülden sonra 28-29 basamağa kadar hassasiyet 
+
             char basHarfi = 'G';                        // 16 bit tek karakter saklamak için kullanılır. Tek tırnak içinde tanımlanır.  
 
             string ad = "Selami";                        // Metin verilerini temsil eden veri tipi. Çift tırnak işareti ile yazılır.                    
@@ -45,7 +49,23 @@ namespace CSharpTutorial
 
             // $ işareti ile string interpolation kullanma
             Console.WriteLine($"Tam Sayı: {tamSayi}, Long: {isikYili}, short: {alınanYol}, byte: {yas}, float: {pi}, double: {uzunluk}, char: {basHarfi}, string: {ad}, Boolean: {boolValue}");
+
+            Console.WriteLine((byte)Days.Wednesday);
+            Console.WriteLine(Days.Wednesday);
+
+
+
         }
     }
+    enum Days: byte // 8 bitlik enum tanımlaması gerçekleştirildi. 0-255 arasında değer alabilir.
+    {
+        Sunday,     //0
+        Monday,  // = 3 dersem Monday 3 olur ve Tuesday 4 olur diğerleri de ona göre artar.
+        Tuesday,
+        Wednesday,
+        Thursday,
+        Friday,
+        Saturday     //6
     }
+}
 
