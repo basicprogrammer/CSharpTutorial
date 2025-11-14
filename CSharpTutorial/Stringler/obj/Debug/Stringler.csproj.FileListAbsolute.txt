@@ -1,0 +1,7 @@
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\Stringler\bin\Debug\Stringler.exe.config
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\Stringler\bin\Debug\Stringler.exe
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\Stringler\bin\Debug\Stringler.pdb
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\Stringler\obj\Debug\Stringler.csproj.AssemblyReference.cache
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\Stringler\obj\Debug\Stringler.csproj.CoreCompileInputs.cache
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\Stringler\obj\Debug\Stringler.exe
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\Stringler\obj\Debug\Stringler.pdb

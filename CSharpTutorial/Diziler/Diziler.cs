@@ -10,6 +10,9 @@ namespace Diziler
     {
         static void Main(string[] args)
         {
+
+
+            //Tek boyutlu diziler
             string[] renkler = new string[5] { "mavi", "kırmızı", "sarı", "yeşil", "turuncu" };
 
             foreach (var renk in renkler)
@@ -35,7 +38,7 @@ namespace Diziler
 
 
 
-            string[] bolgeler= new string[5]; // 5 elemanlı boş bir dizi tanımlandı.
+            string[] bolgeler = new string[5]; // 5 elemanlı boş bir dizi tanımlandı.
             bolgeler[0] = "İç Anadolu";       // Dizide elemanlar tek tek atandı. Atanmayanlar null olarak kalır ve yansırlar.
             bolgeler[1] = "Marmara";
             bolgeler[2] = "Ege";
@@ -44,7 +47,30 @@ namespace Diziler
             {
                 Console.WriteLine(bolge);
             }
-            Console.WriteLine("Dizilerin uzunluğu: " + bolgeler.Length);    
+            Console.WriteLine("Dizilerin uzunluğu: " + bolgeler.Length);
+
+            //--------------------------------------------------------------
+
+
+            string[,] plakaKodlari = new string[3, 4] //3 satır 4 sütun
+            {
+                {"34", "35", "06","09"},
+                {"16", "01", "45","44"},
+                {"55", "48", "10","45"}
+
+            };
+
+            for(int i = 0; i < 3; i++) //satırlar
+            {
+                for (int j = 0; j < 4; j++) //sütunlar
+                {
+                    Console.WriteLine(plakaKodlari[i, j]);
+                }
+                Console.WriteLine("--");
+            }
+            Console.WriteLine("Dizilerin uzunluğu: " + plakaKodlari.Length);
+
+
         }
     }
 }
