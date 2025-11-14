@@ -1,0 +1,7 @@
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\Diziler\bin\Debug\Diziler.exe.config
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\Diziler\bin\Debug\Diziler.exe
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\Diziler\bin\Debug\Diziler.pdb
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\Diziler\obj\Debug\Diziler.csproj.AssemblyReference.cache
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\Diziler\obj\Debug\Diziler.csproj.CoreCompileInputs.cache
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\Diziler\obj\Debug\Diziler.exe
+C:\Users\baran_akdeniz\Documents\GitHub\CSharpTutorial\CSharpTutorial\Diziler\obj\Debug\Diziler.pdb

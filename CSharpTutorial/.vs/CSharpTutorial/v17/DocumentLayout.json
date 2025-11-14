@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{53103188-B35B-4817-8862-3A10CD393C7F}|Diziler\\Diziler.csproj|c:\\users\\baran_akdeniz\\documents\\github\\csharptutorial\\csharptutorial\\diziler\\diziler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53103188-B35B-4817-8862-3A10CD393C7F}|Diziler\\Diziler.csproj|solutionrelative:diziler\\diziler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{88CFF805-2617-4497-89B0-AD328F8F7164}|Metotlar\\Metotlar.csproj|c:\\users\\baran_akdeniz\\documents\\github\\csharptutorial\\csharptutorial\\metotlar\\metotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{88CFF805-2617-4497-89B0-AD328F8F7164}|Metotlar\\Metotlar.csproj|solutionrelative:metotlar\\metotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Diziler.cs",
+              "DocumentMoniker": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Diziler\\Diziler.cs",
+              "RelativeDocumentMoniker": "Diziler\\Diziler.cs",
+              "ToolTip": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Diziler\\Diziler.cs",
+              "RelativeToolTip": "Diziler\\Diziler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-14T07:31:02.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Metotlar.cs",
               "DocumentMoniker": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Metotlar\\Metotlar.cs",
               "RelativeDocumentMoniker": "Metotlar\\Metotlar.cs",
               "ToolTip": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Metotlar\\Metotlar.cs",
               "RelativeToolTip": "Metotlar\\Metotlar.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowC0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T07:28:58.035Z",
               "EditorCaption": ""
