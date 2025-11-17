@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6E1B49A2-8187-4FE4-AC37-16E1BCA8A92F}|Classes\\Classes.csproj|c:\\users\\baran_akdeniz\\documents\\github\\csharptutorial\\csharptutorial\\classes\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1B49A2-8187-4FE4-AC37-16E1BCA8A92F}|Classes\\Classes.csproj|solutionrelative:classes\\classes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1B49A2-8187-4FE4-AC37-16E1BCA8A92F}|Classes\\Classes.csproj|c:\\users\\baran_akdeniz\\documents\\github\\csharptutorial\\csharptutorial\\classes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1B49A2-8187-4FE4-AC37-16E1BCA8A92F}|Classes\\Classes.csproj|solutionrelative:classes\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E1B49A2-8187-4FE4-AC37-16E1BCA8A92F}|Classes\\Classes.csproj|c:\\users\\baran_akdeniz\\documents\\github\\csharptutorial\\csharptutorial\\classes\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E1B49A2-8187-4FE4-AC37-16E1BCA8A92F}|Classes\\Classes.csproj|solutionrelative:classes\\customermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31C465FD-F482-4255-A8A1-B7FC314B7499}|Stringler\\Stringler.csproj|c:\\users\\baran_akdeniz\\documents\\github\\csharptutorial\\csharptutorial\\stringler\\stringler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31C465FD-F482-4255-A8A1-B7FC314B7499}|Stringler\\Stringler.csproj|solutionrelative:stringler\\stringler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C1D17D84-D998-4D4A-BB0C-410E9BA2E93E}|Loops\\Loops.csproj|c:\\users\\baran_akdeniz\\documents\\github\\csharptutorial\\csharptutorial\\loops\\loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C1D17D84-D998-4D4A-BB0C-410E9BA2E93E}|Loops\\Loops.csproj|solutionrelative:loops\\loops.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53103188-B35B-4817-8862-3A10CD393C7F}|Diziler\\Diziler.csproj|c:\\users\\baran_akdeniz\\documents\\github\\csharptutorial\\csharptutorial\\diziler\\diziler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{53103188-B35B-4817-8862-3A10CD393C7F}|Diziler\\Diziler.csproj|solutionrelative:diziler\\diziler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E4FA893F-4BC1-40EC-90A2-997179F12779}|SartBloklari\\SartBloklari.csproj|c:\\users\\baran_akdeniz\\documents\\github\\csharptutorial\\csharptutorial\\sartbloklari\\sartbloklari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4FA893F-4BC1-40EC-90A2-997179F12779}|SartBloklari\\SartBloklari.csproj|solutionrelative:sartbloklari\\sartbloklari.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{88CFF805-2617-4497-89B0-AD328F8F7164}|Metotlar\\Metotlar.csproj|C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\metotlar\\metotlar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,58 +34,85 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SartBloklari.cs",
+              "DocumentMoniker": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\SartBloklari\\SartBloklari.cs",
+              "RelativeDocumentMoniker": "SartBloklari\\SartBloklari.cs",
+              "ToolTip": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\SartBloklari\\SartBloklari.cs",
+              "RelativeToolTip": "SartBloklari\\SartBloklari.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:13:54.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Classes\\Customer.cs",
+              "RelativeDocumentMoniker": "Classes\\Customer.cs",
+              "ToolTip": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Classes\\Customer.cs",
+              "RelativeToolTip": "Classes\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T11:08:22.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CustomerManager.cs",
+              "DocumentMoniker": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Classes\\CustomerManager.cs",
+              "RelativeDocumentMoniker": "Classes\\CustomerManager.cs",
+              "ToolTip": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Classes\\CustomerManager.cs",
+              "RelativeToolTip": "Classes\\CustomerManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T10:56:32.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Classes.cs",
+              "DocumentMoniker": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Classes\\Classes.cs",
+              "RelativeDocumentMoniker": "Classes\\Classes.cs",
+              "ToolTip": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Classes\\Classes.cs",
+              "RelativeToolTip": "Classes\\Classes.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIAxwB4AAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-17T07:22:13.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Stringler.cs",
               "DocumentMoniker": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Stringler\\Stringler.cs",
               "RelativeDocumentMoniker": "Stringler\\Stringler.cs",
               "ToolTip": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Stringler\\Stringler.cs",
               "RelativeToolTip": "Stringler\\Stringler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-14T14:09:28.709Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Loops.cs",
-              "DocumentMoniker": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Loops\\Loops.cs",
-              "RelativeDocumentMoniker": "Loops\\Loops.cs",
-              "ToolTip": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Loops\\Loops.cs",
-              "RelativeToolTip": "Loops\\Loops.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAgwFUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T11:50:58.23Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Diziler.cs",
-              "DocumentMoniker": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Diziler\\Diziler.cs",
-              "RelativeDocumentMoniker": "Diziler\\Diziler.cs",
-              "ToolTip": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Diziler\\Diziler.cs",
-              "RelativeToolTip": "Diziler\\Diziler.cs",
-              "ViewState": "AgIAACAAAAAAAAAAAAAswEUAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T07:31:02.885Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Metotlar.cs",
               "DocumentMoniker": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Metotlar\\Metotlar.cs",
               "RelativeDocumentMoniker": "Metotlar\\Metotlar.cs",
               "ToolTip": "C:\\Users\\baran_akdeniz\\Documents\\GitHub\\CSharpTutorial\\CSharpTutorial\\Metotlar\\Metotlar.cs",
               "RelativeToolTip": "Metotlar\\Metotlar.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAowC0AAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-14T07:28:58.035Z"
+              "WhenOpened": "2025-11-14T07:28:58.035Z",
+              "EditorCaption": ""
             }
           ]
         }

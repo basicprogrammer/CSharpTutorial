@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stringler", "Stringler\Stringler.csproj", "{31C465FD-F482-4255-A8A1-B7FC314B7499}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{6E1B49A2-8187-4FE4-AC37-16E1BCA8A92F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{31C465FD-F482-4255-A8A1-B7FC314B7499}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{31C465FD-F482-4255-A8A1-B7FC314B7499}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{31C465FD-F482-4255-A8A1-B7FC314B7499}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E1B49A2-8187-4FE4-AC37-16E1BCA8A92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E1B49A2-8187-4FE4-AC37-16E1BCA8A92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E1B49A2-8187-4FE4-AC37-16E1BCA8A92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E1B49A2-8187-4FE4-AC37-16E1BCA8A92F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
